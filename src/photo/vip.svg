@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.984" height="25.877" viewBox="0 0 38.984 25.877">
+  <g id="vip_icon" data-name="vip icon" transform="translate(0 -86.071)">
+    <g id="Group_170" data-name="Group 170" transform="translate(0 86.071)">
+      <path id="Path_68" data-name="Path 68" d="M19.492,106.706l-16.87-1.142L.022,92.68a1.142,1.142,0,0,1,1.753-1.174L8.861,96.23l9.824-9.824a1.142,1.142,0,0,1,1.615,0l9.824,9.824,7.085-4.723a1.142,1.142,0,0,1,1.753,1.174l-2.6,12.883Z" transform="translate(0 -86.071)" fill="#ffde66"/>
+    </g>
+    <path id="Path_69" data-name="Path 69" d="M274.9,91.511a1.142,1.142,0,0,0-1.269,0l-7.085,4.723-9.824-9.824a1.138,1.138,0,0,0-.815-.334v20.633h.007l16.87-1.142,2.6-12.883A1.142,1.142,0,0,0,274.9,91.511Z" transform="translate(-236.424 -0.004)" fill="#ffbd44"/>
+    <path id="Path_70" data-name="Path 70" d="M34.429,347.314a1.142,1.142,0,0,0,1.142,1.142H51.292l6.9-3.193L51.3,342.071H34.429Z" transform="translate(-31.808 -236.508)" fill="#ffa400"/>
+    <path id="Path_71" data-name="Path 71" d="M255.909,348.457h15.735a1.142,1.142,0,0,0,1.142-1.142v-5.243H255.909Z" transform="translate(-236.424 -236.509)" fill="#fd7e3d"/>
+  </g>
+</svg>
